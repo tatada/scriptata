@@ -8,7 +8,7 @@
 
 /*
 var toc_config = {
-	url: 'http://dte-feed.blogspot.com',
+	url: 'http://www.tipskunci.com',
 	containerId: 'table-of-content',
 	monthNames: [
 		'Januari',
